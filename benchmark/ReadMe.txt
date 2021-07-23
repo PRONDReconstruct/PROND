@@ -1,4 +1,4 @@
-Code to generate synthetic LFR benchmark graphs
+Code to generate synthetic LFR benchmark networks
 
 ----------------------------------------
 In order to compile, type
