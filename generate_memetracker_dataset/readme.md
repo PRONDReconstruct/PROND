@@ -1,4 +1,4 @@
-code for generating MemeTracker dataset<br>
+Code for generating MemeTracker dataset<br>
 original dataset can be available at http://memetracker.org.
 ****
 **network**: code for generating real-world network from MemeTracker dataset: extract top media and blog sites w.r.t. number of documents,  
