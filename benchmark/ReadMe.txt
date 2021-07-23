@@ -1,3 +1,6 @@
+Code to generate synthetic LFR benchmark graphs
+
+----------------------------------------
 In order to compile, type
 
 make
